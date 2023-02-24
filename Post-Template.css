@@ -63,7 +63,17 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-post-details-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
   .u-section-1 .u-image-1 {
-    height: 275px;
+    height: 221px;
+    margin-top: 0;
   }
 }
